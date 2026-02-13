@@ -8,11 +8,12 @@ I love building scalable systems, decentralized applications, and experimenting 
 
 ## 🧑‍💻 About Me
 
+- 🎓 I'm a **pre-final year student** at **ABV-Indian Institute of Information Technology and Management Gwalior**, pursuing an **Integrated M.Tech in Information Technology**.
 - 🔭 Currently working on **Decentralized File Storage Systems** & Backend Engineering
 - 🌱 Learning deeply about **Go, Distributed Systems, Networking, and OS concepts**
 - 🧠 Interested in **System Design, P2P Architectures, Blockchain, and ML Applications**
 - 🏗️ Experienced with **Full Stack Development** (React, Node.js, MongoDB)
-- ⚡ Love turning complex ideas into practical projects
+- ⚡ Love turning complex ideas into practical systems
 
 ---
 
@@ -20,79 +21,100 @@ I love building scalable systems, decentralized applications, and experimenting 
 
 ### 💻 Languages
 - Go
-- JavaScript / TypeScript
-- Python
+- JavaScript
 - Java
-- C / C++
+- Python
 
 ### 🌐 Frontend
 - React.js
 - Tailwind CSS
-- Framer Motion
-- Vite
 
 ### ⚙️ Backend & Databases
 - Node.js
 - Express.js
-- MongoDB
 - REST APIs
 - WebSockets
+- MongoDB
+- SQL
+- Redis
 
-### ☁️ DevOps / Tools
+### ☁️ DevOps and Cloud / Tools
 - Docker
 - Kubernetes (Learning)
 - Git & GitHub
 - Linux
+- AWS
 
 ### 🔗 Other Interests
 - Blockchain Development
 - Distributed Systems
 - Peer-to-Peer Networking
-- Machine Learning (GRU models)
+- Machine Learning and Deep Learning
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🚀 Decentralized File Storage System
-- Peer-to-peer architecture with content-addressable storage
-- File replication & integrity checks
-- Built using Go networking primitives
+### 🧠 Remote Code Executor (Microservices Architecture)
+A scalable **microservices-based remote code execution platform** designed to securely run user-submitted code across isolated services.
 
-### 🏥 Decentralized Medical Record Management
-- Hybrid storage using blockchain + cloud storage
-- Smart contract integration (Ethereum Sepolia)
-- Secure medical data hashing & verification
+**Repository:**  
+https://github.com/Rah-ul-643/Remote-code-executor-microservices
 
-### 🤖 Fall Detection System
-- GRU-based real-time fall detection
-- Raspberry Pi + MPU6050 sensor integration
-- Signal preprocessing and ML inference pipeline
-
-### 🧠 Remote Code Executor
-- Multi-file execution environment
-- Backend sandboxing concepts
-- Full stack architecture
+**Key Highlights:**
+- Built using a **microservices architecture** separating API gateway, execution engine, and storage services.
+- Supports multiple languages like C++, java, Python and **multi-file code execution workflows**, mimicking real development environments.
+- Designed backend sandboxing concepts for safer execution and resource isolation.
+- Service-to-service communication optimized for scalability and modularity.
 
 ---
 
-## 📈 GitHub Stats
+### 🚀 Decentralized File Storage System
+A peer-to-peer distributed storage system focused on reliability, scalability, and data integrity.
 
-<!-- Optional: Replace with your username -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+**Repository:**  
+https://github.com/Rah-ul-643/peer-vault
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+**Key Highlights:**
+- Content-addressable storage for efficient file referencing.
+- Distributed replication strategy across peers for fault tolerance.
+- Integrity verification mechanisms ensuring secure data transfer.
+- Built using **Go networking primitives**, emphasizing low-level networking and concurrency.
+
+---
+
+### 🏥 Decentralized Medical Record Management
+A hybrid architecture combining blockchain trust with practical cloud storage.
+
+**Repository:**  
+https://github.com/Rah-ul-643/Decentralised-Unified-Medical-Records-System-DUMRS-
+
+**Key Highlights:**
+- Blockchain-based hashing for tamper-proof medical record verification.
+- Smart contract integration on Ethereum Sepolia testnet.
+- Hybrid model balancing decentralization with real-world scalability.
+- Secure handling and verification of medical data fingerprints.
+
+---
+
+### 🚌 Smart Bus Scheduler System
+An intelligent scheduling system designed to optimize public transport operations using demand-based logic.
+
+**Repository:**  
+https://github.com/Rah-ul-643/Bus-Scheduler
+
+**Key Highlights:**
+- Automated scheduling algorithm based on demand forecasting using Transformer model.
+- Dynamic fleet allocation to optimize operational efficiency.
+- Focus on real-world transport optimization and scalability.
+- Data-driven decision-making for resource utilization.
 
 ---
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: [your-linkedin]
-- 📫 Email: your-email@example.com
-- 🌐 Portfolio: [your-portfolio-link]
+- 💼 LinkedIn: [https://www.linkedin.com/in/rahul643]
+- 📫 Email: rahulsreekumar03@gmail.com
+- 🌐 Portfolio: [https://rahulsreekumar.netlify.app]
 
 ---
-
-## ⚡ Fun Fact
-
-I enjoy understanding **how things work internally** — from operating systems to distributed networks — not just using them.
